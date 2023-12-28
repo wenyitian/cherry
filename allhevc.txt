@@ -56,4 +56,4 @@ SiTV欢笑剧场 12M2160,http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u
 浙江卫视 8M1080HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw3964456419_1027363177/ott.mobaibox.com/PLTV/3/224/3221228309/index.m3u8
 北京卫视 7.5M1080HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb13]/wh7f454c46tw365166088_1897038004/ott.mobaibox.com/PLTV/3/224/3221228115/index.m3u8
 山东卫视 8M1080HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228315/index.m3u8
-
+天津卫视 8M1080HEVC,
