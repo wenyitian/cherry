@@ -48,13 +48,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw4275197414_1434087125/ot
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw2832628326_-1365903109/ott.mobaibox.com/PLTV/3/224/3221228236/index.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
-tjws
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/wh7f454c46tw1508815214_190238027/ott.mobaibox.com/PLTV/3/224/3221228416/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw2101149226_-773823257/ott.mobaibox.com/PLTV/3/224/3221228312/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/wh7f454c46tw2991827945_499878707/ott.mobaibox.com/PLTV/3/224/3221228295/index.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-ahws
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw1883643845_-516126345/ott.mobaibox.com/PLTV/3/224/3221228153/index.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3085362262_1156444516/ott.mobaibox.com/PLTV/3/224/3221228162/index.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
